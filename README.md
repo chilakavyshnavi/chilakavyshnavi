@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 🚀 About Me
 
 - 🔭 I’m currently working on a **AI-Powered Virtual Therapy for Workplace Mental Health Support**
-- 🌱 I’m currently learning **SQL,Node.js,API integration**
-- 👀 I’m looking to collaborate on **Open source Web-Developement projects, technologies like Blockchain, Natural language proccesing.**
+- 🌱 I’m currently learning **Node.js,API integration**
+- 👀 I’m looking to collaborate on **Web Developement projects,Blockchain Technology, Natural language proccesing.**
 - 📫 How to reach me: **chilakavyshnavi@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I don't need caffeine to cram all night.**
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chilakavyshnavi04)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chilakavyshnavi04/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chilakavyshnavi@gmail.com)
 
 Thank you for visiting my profile. Have a great day! 😊
