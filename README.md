@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[An AI-Powered Virtual Therapy for Workplace Mental Health Support]**
-- 🌱 I’m currently learning **[SQL,Node.js,API integration]**
-- 👀 I’m looking to collaborate on **[Open source Web-Developement projects, technologies like Blockchain, Natural language proccesing.]**
-- 📫 How to reach me: **[chilakavyshnavi@gmail.com]**
+- 🔭 I’m currently working on a **AI-Powered Virtual Therapy for Workplace Mental Health Support**
+- 🌱 I’m currently learning **SQL,Node.js,API integration**
+- 👀 I’m looking to collaborate on **Open source Web-Developement projects, technologies like Blockchain, Natural language proccesing.**
+- 📫 How to reach me: **chilakavyshnavi@gmail.com**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **[I don't need caffeine to cram all night.]**
+- ⚡ Fun fact: **I don't need caffeine to cram all night.**
 
 ## 🛠️ Languages and Tools
 
