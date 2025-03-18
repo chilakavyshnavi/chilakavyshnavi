@@ -19,9 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Vyshnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chilakavyshnavi&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
 
